@@ -1,6 +1,6 @@
-This testbed app was created with no web connectivity in order to test
-IAP without having to use the UniWeb component, which requires a Unity
-iOS Pro license in order to allow the use of the System.Net.Sockets
-class.
+This testbed app was created to test IAP without having
+to use the UniWeb component, which requires a Unity iOS
+Pro license in order to allow the use of the
+System.Net.Sockets class.
 
 -RBJ
